@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "@lorenails_spa27",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/lorenails_spa27?igsh=MXNqczd3ZmFsY2V2aA=="
       },
       {
         "name": "Facebook",
         "description": "Lorena Diaz",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/profile.php?id=61565357184081&mibextid=ZbWKwL"
       }
     ]
   },
